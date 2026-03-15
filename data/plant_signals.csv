@@ -1,1 +1,11 @@
-
+time,moisture,temperature,electrical_signal,plant_state
+1,40,28,0.25,healthy
+2,38,29,0.31,healthy
+3,35,31,0.50,stressed
+4,33,32,0.65,stressed
+5,42,27,0.28,healthy
+6,36,30,0.45,stressed
+7,39,28,0.30,healthy
+8,34,33,0.70,stressed
+9,41,27,0.29,healthy
+10,32,34,0.75,stressed
